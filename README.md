@@ -30,3 +30,24 @@ For further details, visit [project repository](https://github.com/nipunidevinuw
 **Outcome:** Delivered an accurate and reliable car price prediction system, providing valuable insights for consumers and industry professionals.
 
 For further details, visit [project repository](https://github.com/nipunidevinuwara/car-price-prediction-model)
+
+
+## [Movie Recommendation System](https://github.com/nipunidevinuwara/movie-recommendation-system)
+
+**Overview:** Developed a movie recommendation engine using collaborative filtering to provide personalized suggestions based on user preferences and interactions.
+
+**Key Features:**  
+- **Personalized Recommendations:** Tailored movie suggestions based on user interactions.  
+- **Pivot-Based Similarity Calculations:** Efficient similarity computation for improved performance.  
+- **Dynamic Refinement:** Recommendations improve as users engage with the system.  
+
+**Methodology:**  
+- **Algorithm:** User-based collaborative filtering with KNN pivot-based similarity.  
+- **Data Preparation:** Preprocessed user-movie interaction data and selected key features.  
+- **Model Development:** Trained KNN models and generated recommendations based on neighbor similarities.
+
+**Technologies Used:** Python, Google Colab, VS Code, GitHub for version control.  
+
+**Outcome:** Delivered an efficient and accurate recommendation engine, enhancing user experience with personalized movie suggestions.
+
+For further details, visit [project repository](https://github.com/nipunidevinuwara/movie-recommendation-system)
