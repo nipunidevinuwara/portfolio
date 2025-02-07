@@ -12,3 +12,4 @@ Developed a Power BI sales dashboard for Blinkit, an Indian online grocery app o
 
 **Outcome:** Provided actionable insights for improved decision-making and business optimization.
 
+For further details, visit [project repository](https://github.com/nipunidevinuwara/blinkit-sales-analytics-dashboard)
